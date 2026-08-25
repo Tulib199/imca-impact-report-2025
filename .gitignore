@@ -1,0 +1,7 @@
+﻿*.pdf
+*.backup.html
+draft-extracted.txt
+__pycache__/
+_*.py
+.~*
+Thumbs.db
